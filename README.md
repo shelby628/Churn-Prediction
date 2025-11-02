@@ -4,7 +4,7 @@ This project is a **Machine Learning web application** built using **Streamlit**
 
 ---
 
- A- ##  Features
+ ##  Features
 - Interactive **Streamlit web interface** for user input  
 - Real-time churn prediction using a trained **Machine Learning model**  
 - Model built and trained using **Scikit-learn**  
@@ -39,10 +39,17 @@ This project is a **Machine Learning web application** built using **Streamlit**
    ```bash
    git clone https://github.com/shelby628/Churn-Prediction.git
 
-2-Navigate to the project directory
-  cd "Churn Prediction"
-3- Install dependencies
-   pip install -r requirements.txt
-4- Run the Streamlit app
-  
+
+2. Navigate to the project directory:
+
+cd "Churn Prediction"
+
+
+3. Install dependencies:
+
+pip install -r requirements.txt
+
+
+4. Run the Streamlit app:
+
 streamlit run app.py
