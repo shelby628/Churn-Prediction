@@ -42,14 +42,20 @@ This project is a **Machine Learning web application** built using **Streamlit**
 
 2. Navigate to the project directory:
 
+```bash
 cd "Churn Prediction"
+```
 
 
 3. Install dependencies:
 
+```bash
 pip install -r requirements.txt
-
+```
 
 4. Run the Streamlit app:
 
-streamlit run app.py
+
+```
+bash streamlit run app.py
+```
