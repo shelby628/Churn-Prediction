@@ -59,3 +59,7 @@ pip install -r requirements.txt
 ```
 bash streamlit run app.py
 ```
+<img width="748" height="439" alt="customer churn" src="https://github.com/user-attachments/assets/50ef96fb-cc6d-4fcc-9b80-1fe697423e4e" />
+
+<img width="560" height="360" alt="customer churn 2" src="https://github.com/user-attachments/assets/c8def762-7a11-4031-9e5b-6e148552912c" />
+
